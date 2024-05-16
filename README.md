@@ -1,8 +1,12 @@
 Syntax:
+
 run compiled binary: ./liquid
+
 compile new binary: make liquid
 
-/*  ------------------------------------------------------------------------- ENGLISH -------------------------------------------------------------------------- */
+
+/*  --------------------------------------------------------------- ENGLISH ---------------------------------------------------------------- */
+
 Old version of my liquid-httpd chat community server, developed and written by myself. I spent about 10 years developing it. 
 
 The chat I had before was called mogchat and was written in Perl, but that was a long time ago now. The Perl version was a great success, but too slow to handle the many simultaneous connections. 
@@ -29,7 +33,8 @@ So have fun with it. :)
 m0gwai@arcor.de
 
 
-/*  ------------------------------------------------------------------------- DEUTSCH ------------------------------------------------------------------------- */
+/*  --------------------------------------------------------------- DEUTSCH --------------------------------------------------------------- */
+
 Alte Version meines liquid-httpd Chat-Community-Servers, von mir selbst entwickelt und geschrieben. Ich habe etwa 10 Jahre damit verbracht, ihn zu entwickeln. 
 
 Der Chat, den ich vorher hatte, hieß mogchat und war in Perl geschrieben, aber das ist jetzt schon lange her. Die Perl-Version war ein großer Erfolg, aber zu langsam, um die vielen gleichzeitigen Verbindungen zu verarbeiten. 
